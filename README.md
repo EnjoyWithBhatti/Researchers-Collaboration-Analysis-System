@@ -43,7 +43,7 @@ The project applies **advanced data structures and algorithms** such as **AVL Tr
 ## 🏗️ Project Structure
 ```text
 Researchers_Collaboration_Analysis_System/
-├── Researchers_Analysis_System.cpp                # Main Program
+├── Researchers_Collaboration_Analysis_System.cpp  # Main Program
 ├── author_collaborations_with_data.csv            # Collaboration Matrix among Researchers
 ├── authors_info.csv                               # Authors Information 
 └── README.md                                      # This file
@@ -57,10 +57,10 @@ Researchers_Collaboration_Analysis_System/
 
 ```bash
 # Compile the main file
-g++ Researchers_Analysis_System.cpp -o Researchers_Analysis_System
+g++ Researchers_Collaboration_Analysis_System.cpp -o Researchers_Collaboration_Analysis_System
 
 # Run the program
-./Researchers_Analysis_System
+./Researchers_Collaboration_Analysis_System
 ```
 
 ## 🎮 How to Use
